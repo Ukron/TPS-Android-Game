@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: fc2dc1d2c9007a54e91d50eb59185893
+timeCreated: 1471465011
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Base Human
+    100002: Base HumanHead
+    100004: Base HumanLArm1
+    100006: Base HumanLArm2
+    100008: Base HumanLArmPalm
+    100010: Base HumanLCalf
+    100012: Base HumanLCollarbone
+    100014: Base HumanLFoot
+    100016: Base HumanLForearm
+    100018: Base HumanLIKTarget
+    100020: Base HumanLPalm
+    100022: Base HumanLPlatform
+    100024: Base HumanLThigh
+    100026: Base HumanLUpperarm
+    100028: Base HumanNeck
+    100030: Base HumanPelvis
+    100032: Base HumanRCalf
+    100034: Base HumanRCollarbone
+    100036: Base HumanRFoot
+    100038: Base HumanRForearm
+    100040: Base HumanRibcage
+    100042: Base HumanRIKTarget
+    100044: Base HumanRPalm
+    100046: Base HumanRPlatform
+    100048: Base HumanRThigh
+    100050: Base HumanRUpperarm
+    100052: Base HumanSpine1
+    100054: Base HumanSpine2
+    100056: Base HumanTail1
+    100058: Base HumanTail1 1
+    100060: Base HumanTail2
+    100062: Base HumanTail2 1
+    100064: Drobovik001
+    100066: //RootNode
+    100068: Zayac
+    400000: Base Human
+    400002: Base HumanHead
+    400004: Base HumanLArm1
+    400006: Base HumanLArm2
+    400008: Base HumanLArmPalm
+    400010: Base HumanLCalf
+    400012: Base HumanLCollarbone
+    400014: Base HumanLFoot
+    400016: Base HumanLForearm
+    400018: Base HumanLIKTarget
+    400020: Base HumanLPalm
+    400022: Base HumanLPlatform
+    400024: Base HumanLThigh
+    400026: Base HumanLUpperarm
+    400028: Base HumanNeck
+    400030: Base HumanPelvis
+    400032: Base HumanRCalf
+    400034: Base HumanRCollarbone
+    400036: Base HumanRFoot
+    400038: Base HumanRForearm
+    400040: Base HumanRibcage
+    400042: Base HumanRIKTarget
+    400044: Base HumanRPalm
+    400046: Base HumanRPlatform
+    400048: Base HumanRThigh
+    400050: Base HumanRUpperarm
+    400052: Base HumanSpine1
+    400054: Base HumanSpine2
+    400056: Base HumanTail1
+    400058: Base HumanTail1 1
+    400060: Base HumanTail2
+    400062: Base HumanTail2 1
+    400064: Drobovik001
+    400066: //RootNode
+    400068: Zayac
+    2300000: Drobovik001
+    3300000: Drobovik001
+    4300000: Zayac
+    4300002: Drobovik001
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Zayac
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
